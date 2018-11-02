@@ -1,0 +1,7 @@
+C:\Users\bvalentic\source\repos\Refactoring-Debugging\Refactoring-Debugging\bin\Debug\Refactoring-Debugging.exe.config
+C:\Users\bvalentic\source\repos\Refactoring-Debugging\Refactoring-Debugging\bin\Debug\Refactoring-Debugging.exe
+C:\Users\bvalentic\source\repos\Refactoring-Debugging\Refactoring-Debugging\bin\Debug\Refactoring-Debugging.pdb
+C:\Users\bvalentic\source\repos\Refactoring-Debugging\Refactoring-Debugging\obj\Debug\Refactoring-Debugging.csprojAssemblyReference.cache
+C:\Users\bvalentic\source\repos\Refactoring-Debugging\Refactoring-Debugging\obj\Debug\Refactoring-Debugging.csproj.CoreCompileInputs.cache
+C:\Users\bvalentic\source\repos\Refactoring-Debugging\Refactoring-Debugging\obj\Debug\Refactoring-Debugging.exe
+C:\Users\bvalentic\source\repos\Refactoring-Debugging\Refactoring-Debugging\obj\Debug\Refactoring-Debugging.pdb

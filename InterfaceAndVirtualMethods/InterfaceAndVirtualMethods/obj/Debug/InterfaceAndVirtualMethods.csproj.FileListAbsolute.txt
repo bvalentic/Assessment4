@@ -1,0 +1,7 @@
+C:\Users\bvalentic\source\repos\InterfaceAndVirtualMethods\InterfaceAndVirtualMethods\bin\Debug\InterfaceAndVirtualMethods.exe.config
+C:\Users\bvalentic\source\repos\InterfaceAndVirtualMethods\InterfaceAndVirtualMethods\bin\Debug\InterfaceAndVirtualMethods.exe
+C:\Users\bvalentic\source\repos\InterfaceAndVirtualMethods\InterfaceAndVirtualMethods\bin\Debug\InterfaceAndVirtualMethods.pdb
+C:\Users\bvalentic\source\repos\InterfaceAndVirtualMethods\InterfaceAndVirtualMethods\obj\Debug\InterfaceAndVirtualMethods.csprojAssemblyReference.cache
+C:\Users\bvalentic\source\repos\InterfaceAndVirtualMethods\InterfaceAndVirtualMethods\obj\Debug\InterfaceAndVirtualMethods.csproj.CoreCompileInputs.cache
+C:\Users\bvalentic\source\repos\InterfaceAndVirtualMethods\InterfaceAndVirtualMethods\obj\Debug\InterfaceAndVirtualMethods.exe
+C:\Users\bvalentic\source\repos\InterfaceAndVirtualMethods\InterfaceAndVirtualMethods\obj\Debug\InterfaceAndVirtualMethods.pdb

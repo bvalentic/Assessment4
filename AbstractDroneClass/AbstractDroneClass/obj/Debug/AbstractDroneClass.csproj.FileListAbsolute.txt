@@ -1,0 +1,7 @@
+C:\Users\bvalentic\source\repos\AbstractDroneClass\AbstractDroneClass\obj\Debug\AbstractDroneClass.csprojAssemblyReference.cache
+C:\Users\bvalentic\source\repos\AbstractDroneClass\AbstractDroneClass\obj\Debug\AbstractDroneClass.csproj.CoreCompileInputs.cache
+C:\Users\bvalentic\source\repos\AbstractDroneClass\AbstractDroneClass\bin\Debug\AbstractDroneClass.exe.config
+C:\Users\bvalentic\source\repos\AbstractDroneClass\AbstractDroneClass\bin\Debug\AbstractDroneClass.exe
+C:\Users\bvalentic\source\repos\AbstractDroneClass\AbstractDroneClass\bin\Debug\AbstractDroneClass.pdb
+C:\Users\bvalentic\source\repos\AbstractDroneClass\AbstractDroneClass\obj\Debug\AbstractDroneClass.exe
+C:\Users\bvalentic\source\repos\AbstractDroneClass\AbstractDroneClass\obj\Debug\AbstractDroneClass.pdb
